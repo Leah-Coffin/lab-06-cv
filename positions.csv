@@ -1,4 +1,5 @@
 section,in_resume,title,institution,loc,start,end,description_1,description_2,description_3
+education,TRUE,"M.S., Masters in Program Evaluation and Data Analytics", Arizona State University,"Tempe, Az",2023,NA,NA,NA,NA
 education,TRUE,"MFamStud, Master in Family Studies", University of Newcastle, NSW Australia, 2013,2015,NA,NA,NA
 education,TRUE,"B.A., Elementary Education, (minor Sociology)",Arizona State University,"Tempe, Az",NA,2003,NA,NA,NA
 research_positions,TRUE,"Research Assistant,Family Action Center", University of Newcastle, NSW Australia, 2013,2015, "Analyzed and coded behavioral interactions between fathers and their children.",NA,NA
