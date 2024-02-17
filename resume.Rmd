@@ -101,7 +101,7 @@ Disclaimer {#disclaimer}
 
 Made w/ [**pagedown**](https://github.com/rstudio/pagedown). 
 
-Source code: [github.com/Leah-Coffin/lab-06-cv](https://github.com/Leah-Coffin/lab-06-cv).
+Source code: [github.com/Leah-Coffin/cv](https://leah-coffin.github.io/lab-06-cv/).
 
 Last updated on `r Sys.Date()`.
 
